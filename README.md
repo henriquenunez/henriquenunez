@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá | Hello | Hola | Hallo
+
+My name is Henrique Hiram, and everyone calls me Hiram.
+
+- Computer Science student.
+
+<!--img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenunez&hide=html&layout=compact&theme=buefy" /-->
 
 <!--
 **henriquenunez/henriquenunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
