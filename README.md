@@ -3,6 +3,7 @@
 My name is Henrique Hiram, and everyone calls me Hiram.
 
 - Computer Science student.
+- Researcher on DED (Metal 3D printing with laser).
 
 <!--img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenunez&hide=html&layout=compact&theme=buefy" /-->
 
