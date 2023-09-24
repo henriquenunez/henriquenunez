@@ -1,10 +1,18 @@
 ### Olá | Hello | Hola | Hallo
 
-My name is Henrique Hiram, and everyone calls me Hiram.
+My name is Henrique Hiram, and I am known by many simply as Hiram.
 
-- Computer Science student.
-- Researcher on DED (Metal 3D printing with laser).
+- Computer Scientist (Universidade de São Paulo)
+- Master's student (University of Turku)
+- Former researcher on DED (Metal 3D printing with laser).
 
+Currently interested in:
+- Bioinformatics
+- ML
+- Neuroscience
+- Biohacking
+
+Feel free to reach out :)
 <!--img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenunez&hide=html&layout=compact&theme=buefy" /-->
 
 <!--
